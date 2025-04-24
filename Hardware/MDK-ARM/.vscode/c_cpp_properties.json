@@ -8,6 +8,8 @@
                 "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
                 "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
                 "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\Drivers\\CMSIS\\Include",
+                "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\Drivers\\My_Drivers\\Inc",
+                "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\Drivers\\My_Drivers\\Src",
                 "D:\\keil5\\Keil5\\ARM\\ARMCC\\include",
                 "D:\\keil5\\Keil5\\ARM\\ARMCC\\include\\rw",
                 "d:\\Sourcetree\\Documents\\IIC_OLED\\Hardware\\MDK-ARM",
